@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730829734986",
+    "project_id": "alhadaf-a3fa2",
+    "storage_bucket": "alhadaf-a3fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730829734986:android:bff3db1593e22db3a452b3",
+        "android_client_info": {
+          "package_name": "com.alhaddafcommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730829734986-9q7juvkagvdrl99uvmckdu3trc2laqvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDuZYMfaKN9ZvLre-xFbD4HrTHw9GuRPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730829734986-9q7juvkagvdrl99uvmckdu3trc2laqvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
